@@ -1,6 +1,6 @@
 # reveal.js template
 
-This is a customised template used to get the ball rolling on reveal.js
+This is a customised template used to get the ball rolling on [reveal.js](https://github.com/hakimel/reveal.js)
 presentations as quickly as possible. It's a stripped down version of the full
 reveal.js presentation framework including only the `.css` themes I use (`night`
 and `simple`).
